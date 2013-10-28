@@ -11,7 +11,7 @@
 /**
  * Nocriz API 
  *
- * @package  Nocriz
+ * @package  Math
  * @author   Ramon Barros <contato@ramon-barros.com>
  */
 

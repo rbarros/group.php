@@ -12,6 +12,10 @@ $ php composer.phar install --prefer-source
 ## Examples
 
 ```
+require __DIR__.'/../app/bootstrap.php';
+
+use Group\Group;
+
  $group = new Group("012345679");
  echo print_r($group->getGroups(), true);
  /*
